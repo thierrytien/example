@@ -1,2 +1,1 @@
-# example
-this repository include many examples about GIT.
+# dong nay la chinh toi them vao
